@@ -155,3 +155,9 @@ h2{
     margin-left:40px;
 }
 
+@media(max-width:600px){
+    .game{
+        height:50vh;
+    }
+}
+
