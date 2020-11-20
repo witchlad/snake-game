@@ -154,10 +154,3 @@ h2{
 #start{
     margin-left:40px;
 }
-
-@media(max-width:600px){
-    .game{
-        height:30vh;
-    }
-}
-
